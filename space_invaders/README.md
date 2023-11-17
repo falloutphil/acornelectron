@@ -19,6 +19,6 @@ SSD files can also be loaded onto Acorn Electron hardware using and Elk64SD or E
 
 
 Failing that Electrem and BeebEm both allow you to cut and paste the raw text provided here into the emulator.
-Then just type RUN
+Then just type `RUN`.
 
 
