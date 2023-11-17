@@ -1,3 +1,0 @@
-*DISC
-CHAIN "SPACE"
-
