@@ -3,10 +3,9 @@
 
 In less than 600 bytes - with some caveats!
 
-There is only one alien, the score breaks beyond 9, and the code is a poor-man's replacement for proper sprite use, etc.
-All of these problems have solutions, if I ever have the time (probably not given I wrote this 12 year ago!).
+There is only one alien, the score breaks beyond 9, and the code is a poor-man's replacement for proper sprite use, etc.  All of these problems have solutions, if I ever have the time (probably not given I wrote this 12 year ago!).
 
-The ghosting on the gif is the gif compression not ap problem with the game - if anything the animation of the bugs legs and antennae is the coolest thing in the code!
+The ghosting on the screenshot is the GIF compression not a problem with the game - if anything the animation of the bugs legs and antennae is the coolest thing in the code!
 
 ![Space Invaders Screenshot](spaceinv_screenshot.gif)
 
