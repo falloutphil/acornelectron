@@ -6,7 +6,7 @@ In less than 600 bytes - with some caveats!
 There is only one alien, the score breaks beyond 9, and the code is a poor-man's replacement for proper sprite use.
 All of these problems have solutions, if I ever have the time!
 
-![Space Invaders Screenshot](spcinv_screenshot.png)
+![Space Invaders Screenshot](spaceinv_screenshot.gif)
 
 # Directions
 The SSD file is a single side disk (DFS format) - you should be able to mount it on most Acorn Electron emulators.
