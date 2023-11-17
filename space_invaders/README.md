@@ -1,6 +1,8 @@
 
 # Unfinished Space Invaders
 
+In less than 600 bytes - with some caveats!
+
 There is only one alien, the score breaks beyond 9, and the code is a poor-man's replacement for proper sprite use.
 All of these problems have solutions, if I ever have the time!
 
