@@ -20,6 +20,11 @@ CHAIN "SPACE"
 
 SSD files can also be loaded onto Acorn Electron hardware using and Elk64SD or Elk128SD device - see EBay.
 
+```
+*DCAT
+*DIN <disk image number containing ssd>
+CHAIN "SPACE"
+```
 
 Failing that Electrem and BeebEm both allow you to cut and paste the raw text provided here into the emulator.
 Then just type `RUN`.
